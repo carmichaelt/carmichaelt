@@ -66,6 +66,12 @@ I'm a **Full Stack Developer** and **Technical Consultant** at [PA Consulting](h
 
 ## 🚀 Featured Projects
 
+### **Carmichaelt - Personal Website + Blog**
+*Public | Open source so anyone can explore the codebase*
+- Built with Next.js, utilising Partial Pre Rendering
+- Minimalist design to communicate information
+- Visit here [carmichaelt](https://www.carmichaelt.com)
+
 ### **Kaiwa - Conversational AI Training Platform**
 *Contact Centers | Solving limited availability of human role-play sessions*
 - Built with Next.js, Vercel AI SDK, and modern web technologies
@@ -112,11 +118,10 @@ I'm a **Full Stack Developer** and **Technical Consultant** at [PA Consulting](h
 
 ## 🎯 Currently Looking For
 
-I'm actively seeking **Full Stack Developer** and **Senior Developer** opportunities where I can:
+I'm actively seeking **Full Stack Developer** and **Customer Success** opportunities where I can:
 - Build innovative web applications using modern technologies
-- Lead technical teams and mentor junior developers
-- Architect scalable solutions for enterprise clients
-- Work with AI/ML integration and cutting-edge web technologies
+- Architect scalable web solutions for enterprise clients
+- Work with AI tools, AI SDK's and cutting-edge web technologies
 
 ---
 
