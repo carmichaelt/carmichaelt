@@ -1,4 +1,4 @@
-# Tom Carmichael 👋
+# [Tom Carmichael](https://www.carmichaelt.com) 👋 
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7C3AED&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI+Application+Builder;Cloud+Architect;Technical+Consultant" alt="Typing SVG" />
