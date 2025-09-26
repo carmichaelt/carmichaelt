@@ -70,19 +70,18 @@ I'm a **Full Stack Developer** and **Technical Consultant** at [PA Consulting](h
 *Contact Centers | Solving limited availability of human role-play sessions*
 - Built with Next.js, Vercel AI SDK, and modern web technologies
 - Successfully deployed and demoed to enterprise clients
-- [Live Demo Available](https://kaiwa.app)
 
-### **Prompt Blocks** *(NextJS Hackathon Winner)*
+### **Prompt Blocks** *(NextJS Hackathon 2025)*
 *AI Users | Improving AI prompts through component-based building*
 - Innovative approach to prompt engineering
 - Component-based prompt construction system
 
-### **Remember.Holiday** *(Bolt.new Hackathon)*
+### **Remember.Holiday** *(Bolt.new Global Hackathon 2025)*
 *Travelers | Digital memory capture and storage*
 - Digital postcards, photos, journals, and mood boards
 - Built for capturing and preserving holiday memories
 
-### **TripTimelines.com** *(Personal Project)*
+### **TripTimelines** *(Personal Project)*
 *Travelers | Trip planning and journaling platform*
 - Comprehensive trip planning and real-time journaling
 - Predecessor to Remember.Holiday
@@ -104,20 +103,10 @@ I'm a **Full Stack Developer** and **Technical Consultant** at [PA Consulting](h
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=carmichaelt&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carmichaelt&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
-
----
-
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tomcarmichael)
 [![Website](https://img.shields.io/badge/Website-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://carmichaelt.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tom@carmichaelt.com)
 
 ---
 
