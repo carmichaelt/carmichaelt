@@ -6,7 +6,7 @@
 
 ## About Me
 
-I'm a **AI Software Engineer** at [AskVinny](https://www.askvinny.com/), specializing in modern web development, AI apps, and cloud architecture. 
+I'm a **AI Software Engineer** at [Vinny](https://www.askvinny.com/), specializing in modern web development, AI apps, and cloud architecture. 
 
 ### 🚀 What I Do
 
